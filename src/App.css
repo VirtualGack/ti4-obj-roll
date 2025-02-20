@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  overflow: hidden;
+  font-family: 'myriad';
+}
+
+  @font-face {
+    font-family: 'myriad';
+    src: url('./fonts/MYRIADPRO-SEMIBOLD.OTF');
+  }
+
+.Background {
+  background-color: #1a013d;
+  background-image: url("./images/spacebackground.png");
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.Roller {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-size: 32px;
+}
+
+.Button {
+  text-align: center;
+  font-size: 24px;
+  width: 40%;
+  Background: white;
+  border: none;
+  border-radius: 25px;
+}
+
+.Objectives {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  /*padding: 10px;*/
+  color: white;
+  text-align: center;
+  position: relative;
+
+
+  /*width: auto;*/
+  /*height: auto;*/
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*padding: 10px;*/
+  /*position: relative;*/
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 6.5%;
+}
+
+.row {
+  content: "";
+  clear: both;
+  display: table;
+  width: 100%;
+}
+
+
+.Obj1 {
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*width: 50%;*/
+}
+
+.Obj2 {
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*width: 50%;*/
+}
+
+img {
+  width: 250px;
+  padding-bottom: 100px;
+  display: block;
+}
+
+.Blank {
+  height: 11vh;
+}
