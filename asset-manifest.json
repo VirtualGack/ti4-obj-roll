@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ti4-obj-roll/static/css/main.41c6701e.css",
+    "main.js": "/ti4-obj-roll/static/js/main.316a98be.js",
+    "static/js/453.7c8d55b1.chunk.js": "/ti4-obj-roll/static/js/453.7c8d55b1.chunk.js",
+    "static/media/18.jpg": "/ti4-obj-roll/static/media/18.faae1cfeb635760d0870.jpg",
+    "static/media/19.jpg": "/ti4-obj-roll/static/media/19.a8a94af0a5725cf70257.jpg",
+    "static/media/14.jpg": "/ti4-obj-roll/static/media/14.15e20c2af59e69c63dae.jpg",
+    "static/media/7.jpg": "/ti4-obj-roll/static/media/7.ad1db93c47e656200b62.jpg",
+    "static/media/15.jpg": "/ti4-obj-roll/static/media/15.042a7f74eebfbce81275.jpg",
+    "static/media/16.jpg": "/ti4-obj-roll/static/media/16.cf86e0837683862bea6f.jpg",
+    "static/media/0.jpg": "/ti4-obj-roll/static/media/0.30708da114bc464a03c1.jpg",
+    "static/media/6.jpg": "/ti4-obj-roll/static/media/6.18898315294ae68e6889.jpg",
+    "static/media/12.jpg": "/ti4-obj-roll/static/media/12.1d44c160f372b1ac385d.jpg",
+    "static/media/11.jpg": "/ti4-obj-roll/static/media/11.9192f02e13d60383b9ee.jpg",
+    "static/media/17.jpg": "/ti4-obj-roll/static/media/17.5ae104e8db1707f46a55.jpg",
+    "static/media/20.jpg": "/ti4-obj-roll/static/media/20.e9ca6ef64844ad4e7ae9.jpg",
+    "static/media/1.jpg": "/ti4-obj-roll/static/media/1.ad3458accace2f33e123.jpg",
+    "static/media/13.jpg": "/ti4-obj-roll/static/media/13.1c1bdae59f8ea69b9cab.jpg",
+    "static/media/10.jpg": "/ti4-obj-roll/static/media/10.a56d29e1403b6714943e.jpg",
+    "static/media/5.jpg": "/ti4-obj-roll/static/media/5.47a6a8d7898c6e235e35.jpg",
+    "static/media/2.jpg": "/ti4-obj-roll/static/media/2.321ea8d42b09f4725d5b.jpg",
+    "static/media/8.jpg": "/ti4-obj-roll/static/media/8.17ffa19665983fc491be.jpg",
+    "static/media/9.jpg": "/ti4-obj-roll/static/media/9.c8b039515c61f01f4d42.jpg",
+    "static/media/4.jpg": "/ti4-obj-roll/static/media/4.6418390cfee95576bd89.jpg",
+    "static/media/3.jpg": "/ti4-obj-roll/static/media/3.a706439c17c954586b26.jpg",
+    "static/media/spacebackground.png": "/ti4-obj-roll/static/media/spacebackground.f6cf679e945b1b9e6eed.png",
+    "static/media/MYRIADPRO-SEMIBOLD.OTF": "/ti4-obj-roll/static/media/MYRIADPRO-SEMIBOLD.662f3601805079437292.OTF",
+    "index.html": "/ti4-obj-roll/index.html",
+    "main.41c6701e.css.map": "/ti4-obj-roll/static/css/main.41c6701e.css.map",
+    "main.316a98be.js.map": "/ti4-obj-roll/static/js/main.316a98be.js.map",
+    "453.7c8d55b1.chunk.js.map": "/ti4-obj-roll/static/js/453.7c8d55b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c6701e.css",
+    "static/js/main.316a98be.js"
+  ]
+}
